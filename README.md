@@ -4,9 +4,9 @@
 
 </div>
 
-![Figure 1. The motivation for CT-Navigator, from progressive visual exploration to radiology tool invocation.](./assets/fig1.png)
-
-**Figure 1.** The radiologist’s workflow motivates CT-Navigator to move from a scan overview to key slices and regions and invoke radiology tools when needed.
+<p align="center">
+  <img src="./assets/fig1.png" width="560" alt="CT-Navigator motivation and workflow">
+</p>
 
 This is an official PyTorch implementation for *CT-Navigator: Towards Interpretable and Generalizable CT Understanding through Agentic Perception and Tool-Invocation*.
 
